@@ -11,16 +11,19 @@
 }
 
 .search-bar {
-  width: 50%;
+  width: 40%;
   border: none;
   padding: 10px;
+  margin-right: 10px;
+  border-radius: 5px;
 }
 
 .search-button {
-  background: lightcoral;
+  background: rgb(240, 58, 225);
   border: none;
   padding: 10px 20px;
   color: white;
+  border-radius: 5px;
 }
 
 .recipes {
